@@ -1,0 +1,45 @@
+--DocGia TimDocGiaTheoMa (string ma)
+-- Sach TimSachTheoMa (string ma)
+--NCC TimNCCTheoMa(string ma)
+HoaDon TimHDTheoMa(string ma)
+ChiTietHD TimCTHDtheoTenSach(string Ten)
+--NhanVien TimNhanVienTheoMa (string ma)
+PhieuMuon TimPhieuMuonTheoMa(string ma)
+
+bool LapPhieuMuon(PhieuMuon PM)
+bool ThemSachVaoHoaDon(ChiTietHD Sach) //UCNhapSachTuNCC
+-- bool ThemSachVaoThuVien(Sach s)
+--bool ThemDocGia(DocGa DG)
+--bool ThemNCC(NCC Ncc)
+bool ThemHoaDon(HoaDon hd)
+--bool ThemNV(NhanVien Nv)
+
+--bool XoaDocGiaTheoMa (string ma)
+-- bool XoaSachTheoMa (string ma)
+-- bool XoaNCCTheoMa(string ma)
+bool XoaHDTheoMa(string ma)
+bool XoaSachTrongHoaDonTheoMaHD(string maHD)
+-- bool XoaNhanVienTheoMa (string ma)
+bool XoaPhieuMuonTheoMa(string ma)
+
+--bool CapNhatDocGia(DocGia dg)
+--bool CapNhatSach (sach s)
+--bool CapNhatNCC(NCC ncc)
+bool CapNhatHD(HoaDon hd)
+bool CapNhatCTHD(ChiTietHD cthd)
+--bool CapNhatNhanVien(NhanVien news)
+bool CapNhatPhieuMuon(PhieuMuon news)
+bool CapNhatNgayTra(DateTime NgayTra)
+
+--DataTable TimDocGiaTheoTen (string Ten)
+--DataTable TimSachTheoTen (string Ten)
+--DataTable TimNCChTheoTen (string Ten)
+DataTable TimSachTrongHoaDonTheoMaHD(string maHD)
+--DataTable TimNVhTheoTen (string Ten)
+DataTable ThongKeHoaDonTheoNCC(NCC ncc)
+DataTable ThongKeDsDocGiaGanDenHanTraSach()
+DataTable ThongKeSachMuonCuaDocGia(DocGia dg)
+DataTable ThongKeSachDangMuonTheoPhieu(PhieuMuon PM)
+
+
+

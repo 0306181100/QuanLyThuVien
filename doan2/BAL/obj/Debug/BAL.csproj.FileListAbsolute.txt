@@ -1,0 +1,90 @@
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+D:\ThumucbaitapIT\BTIT\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+C:\Users\long2\OneDrive\Máy tính\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+C:\Users\HT\Downloads\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+D:\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+D:\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+D:\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+D:\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+D:\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+D:\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+D:\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+D:\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+E:\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+E:\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+E:\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+E:\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+E:\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+E:\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+E:\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+E:\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+D:\ThumucbaitapIT\BTIT\c#\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+E:\project\DoAnWin\doan2\BAL\bin\Debug\BAL.dll
+E:\project\DoAnWin\doan2\BAL\bin\Debug\BAL.pdb
+E:\project\DoAnWin\doan2\BAL\bin\Debug\BEL.dll
+E:\project\DoAnWin\doan2\BAL\bin\Debug\DAL.dll
+E:\project\DoAnWin\doan2\BAL\bin\Debug\BEL.pdb
+E:\project\DoAnWin\doan2\BAL\bin\Debug\DAL.pdb
+E:\project\DoAnWin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\project\DoAnWin\doan2\BAL\obj\Debug\BAL.dll
+E:\project\DoAnWin\doan2\BAL\obj\Debug\BAL.pdb
+D:\ThumucbaitapIT\BTIT\doan2\BAL\bin\Debug\BAL.dll
+D:\ThumucbaitapIT\BTIT\doan2\BAL\bin\Debug\BAL.pdb
+D:\ThumucbaitapIT\BTIT\doan2\BAL\bin\Debug\BEL.dll
+D:\ThumucbaitapIT\BTIT\doan2\BAL\bin\Debug\DAL.dll
+D:\ThumucbaitapIT\BTIT\doan2\BAL\bin\Debug\BEL.pdb
+D:\ThumucbaitapIT\BTIT\doan2\BAL\bin\Debug\DAL.pdb
+D:\ThumucbaitapIT\BTIT\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\ThumucbaitapIT\BTIT\doan2\BAL\obj\Debug\BAL.dll
+D:\ThumucbaitapIT\BTIT\doan2\BAL\obj\Debug\BAL.pdb
+D:\ThumucbaitapIT\doanwin\doan2\BAL\bin\Debug\BAL.dll
+D:\ThumucbaitapIT\doanwin\doan2\BAL\bin\Debug\BAL.pdb
+D:\ThumucbaitapIT\doanwin\doan2\BAL\bin\Debug\BEL.dll
+D:\ThumucbaitapIT\doanwin\doan2\BAL\bin\Debug\DAL.dll
+D:\ThumucbaitapIT\doanwin\doan2\BAL\bin\Debug\BEL.pdb
+D:\ThumucbaitapIT\doanwin\doan2\BAL\bin\Debug\DAL.pdb
+D:\ThumucbaitapIT\doanwin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\ThumucbaitapIT\doanwin\doan2\BAL\obj\Debug\BAL.dll
+D:\ThumucbaitapIT\doanwin\doan2\BAL\obj\Debug\BAL.pdb
+E:\doanwin\doanwin\doan2\BAL\bin\Debug\BAL.dll
+E:\doanwin\doanwin\doan2\BAL\bin\Debug\BAL.pdb
+E:\doanwin\doanwin\doan2\BAL\bin\Debug\BEL.dll
+E:\doanwin\doanwin\doan2\BAL\bin\Debug\DAL.dll
+E:\doanwin\doanwin\doan2\BAL\bin\Debug\BEL.pdb
+E:\doanwin\doanwin\doan2\BAL\bin\Debug\DAL.pdb
+E:\doanwin\doanwin\doan2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\doanwin\doanwin\doan2\BAL\obj\Debug\BAL.dll
+E:\doanwin\doanwin\doan2\BAL\obj\Debug\BAL.pdb
